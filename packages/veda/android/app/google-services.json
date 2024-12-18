@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860342663068",
+    "project_id": "veda-lookup-avishek",
+    "storage_bucket": "veda-lookup-avishek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860342663068:android:912c129c6b90ce1948fa59",
+        "android_client_info": {
+          "package_name": "com.example.veda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbC_tmX0pbsGsSjMJnvAU6APa36AipbYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

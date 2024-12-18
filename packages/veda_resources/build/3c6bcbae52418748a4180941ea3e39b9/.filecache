@@ -1,0 +1,57 @@
+{
+  "version": 2,
+  "files": [
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations_he.dart",
+      "hash": "5e080c4fb815624c3f6ebfa062fa99e1"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart",
+      "hash": "22c24affd5eaa3a896c6f0110236e5ff"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/lib/l10n/app_ne.arb",
+      "hash": "4406adb312f1fd04737d1555c5451280"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/lib/l10n/app_he.arb",
+      "hash": "aa7b99babbf0843243caa83de88eb044"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/mobile----/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations_ne.dart",
+      "hash": "cb77fc9393ba1052513c0d7958985b93"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/mobile----/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart",
+      "hash": "a23e96939ccf2af8b3e4b5dd4b5a1660"
+    },
+    {
+      "path": "/opt/flutter/packages/flutter_tools/lib/src/build_system/targets/localizations.dart",
+      "hash": "d9155a79b0ac6660fef528508997f61d"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/mobile----/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart",
+      "hash": "22c24affd5eaa3a896c6f0110236e5ff"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/l10n.yaml",
+      "hash": "8c3f42126c27d2d31674180f429199ca"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart",
+      "hash": "a23e96939ccf2af8b3e4b5dd4b5a1660"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/lib/l10n/app_en.arb",
+      "hash": "53cf07ff6ba40ba04edd0ce279b89f73"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/mobile----/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations_he.dart",
+      "hash": "5e080c4fb815624c3f6ebfa062fa99e1"
+    },
+    {
+      "path": "/Users/abisheksubedi/Desktop/pace code tech company/mobile/packages/veda_resources/.dart_tool/flutter_gen/gen_l10n/app_localizations_ne.dart",
+      "hash": "cb77fc9393ba1052513c0d7958985b93"
+    }
+  ]
+}

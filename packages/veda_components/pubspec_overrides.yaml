@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: veda,veda_resources
+dependency_overrides:
+  veda:
+    path: ../veda
+  veda_resources:
+    path: ../veda_resources

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31ba8d51-12ed-408c-b882-bed7182ce024" name="Changes" comment="border radius in custom input">
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/cusom_draggable_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/data/product_detail_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/data/model/voucher_templete_list_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/data/model/voucher_templete_list_model.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/data/repo/voucher_templete_list_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/controller/voucher_templete_list_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/assign_voucher.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/balace.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/payment.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/button/common_voucher_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/button/row_item_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/common_dialogue_box.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/image_card/v_image_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_table/table_row_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_table/used_voucher_table.dart" afterDir="false" />
+=======
+<<<<<<< HEAD
+>>>>>>> fe39c9dc3925c868cf3ede97eb997ac6f5ceb2ef
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/core/models/location_name_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/core/open_steet_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda_resources/assets/icons-bin/camel.svg.vec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda_resources/assets/icons/camel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/app/mg_app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/app/mg_app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/app_setup/remote_services/http_service_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/app_setup/remote_services/http_service_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/data/repositories/edit_category_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/data/repositories/edit_category_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/repositories/i_edit_category_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/repositories/i_edit_category_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/usercases/edit_category_usecase.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/usercases/edit_category_usecase.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/category_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/category_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/edit_category_body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/edit_category_body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/sub_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/sub_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/event/presentation/pages/event_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/event/presentation/pages/event_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/landing_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/landing_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/provider/landing_page_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/provider/landing_page_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_point/controller/map_point_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_point/controller/map_point_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/map_point_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/map_point_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_point_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_point_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/data/products_list_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/data/products_list_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/product_detail_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/product_detail_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/products_list_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/products_list_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/add_product_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/add_products/add_product_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/add_products/add_product_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/product_detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/product_detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/products_listing_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/products_listing_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/buy_voucher.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/buy_voucher.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/my_voucher.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/my_voucher.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/voucher_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/voucher_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/orange_linear_gradient_container.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/orange_linear_gradient_container.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_item_detail_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_item_detail_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/voucher_appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/voucher_appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/config/end_points.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/config/end_points.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/config/paths.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/config/paths.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/config/router.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/config/router.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/appbar/search_appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/appbar/search_appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_expansion_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_expansion_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_image.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_image.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_input/custom_input.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_input/custom_input.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/number_spinner/number_spinner.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/number_spinner/number_spinner.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/scaffold/mg_scaffold.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/scaffold/mg_scaffold.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/utils/properties.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/utils/properties.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/t_components.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/t_components.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins-dependencies" afterDir="false" />
+<<<<<<< HEAD
+=======
+=======
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/cusom_draggable_sheet.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/data/product_detail_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/data/model/voucher_templete_list_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/data/model/voucher_templete_list_model.g.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/data/repo/voucher_templete_list_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/controller/voucher_templete_list_controller.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/assign_voucher.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/balace.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/payment.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/button/common_voucher_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/button/row_item_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/common_dialogue_box.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/image_card/v_image_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_table/table_row_item.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_table/used_voucher_table.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/core/models/location_name_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda/lib/core/open_steet_repo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda_resources/assets/icons-bin/camel.svg.vec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/veda_resources/assets/icons/camel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/app/mg_app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/app/mg_app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/app_setup/remote_services/http_service_impl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/app_setup/remote_services/http_service_impl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/data/repositories/edit_category_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/data/repositories/edit_category_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/repositories/i_edit_category_repository.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/repositories/i_edit_category_repository.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/usercases/edit_category_usecase.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/domain/usercases/edit_category_usecase.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/category_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/category_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/edit_category_body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/edit_category_body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/sub_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/edit_category_page/presentation/pages/components/sub_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/event/presentation/pages/event_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/event/presentation/pages/event_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/landing_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/landing_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/provider/landing_page_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/landing_page/presentation/pages/provider/landing_page_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_point/controller/map_point_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_point/controller/map_point_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_body.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_body.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_point_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_section.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/components/map_section.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/map_point_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/pages/map_point_page.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_point_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_point_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_provider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/map_points_page/presentation/provider/map_provider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/data/products_list_repo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/data/products_list_repo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/products_model/products_model.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/domain/models/single_product_model/single_product_model.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/product_detail_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/product_detail_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/products_list_controller.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/contorllers/products_list_controller.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/add_product_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/add_products/add_product_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/add_products/add_product_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/product_detail_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/product_detail_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/products_listing_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/products/presentation/pages/products_listing_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/buy_voucher.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/buy_voucher.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/my_voucher.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/my_voucher.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/voucher_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/pages/voucher_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/orange_linear_gradient_container.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/orange_linear_gradient_container.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_item_detail_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/v_item_detail_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/voucher_appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/business/features/voucher/presentation/widgets/voucher_appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/config/end_points.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/config/end_points.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/config/paths.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/config/paths.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/lib/config/router.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/lib/config/router.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/appbar/search_appbar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/appbar/search_appbar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_expansion_tile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_expansion_tile.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_image.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_image.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_input/custom_input.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/custom_input/custom_input.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/number_spinner/number_spinner.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/number_spinner/number_spinner.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/general/scaffold/mg_scaffold.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/general/scaffold/mg_scaffold.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/src/utils/properties.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/src/utils/properties.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/lib/t_components.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/lib/t_components.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_components/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_components/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/.flutter-plugins-dependencies" afterDir="false" />
+>>>>>>> fe39c9dc3925c868cf3ede97eb997ac6f5ceb2ef
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/assets/icons-bin/Google__G__Logo.svg.vec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/assets/icons-bin/apple-logo-svgrepo-com.svg.vec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/assets/icons-bin/facebook-176-svgrepo-com.svg.vec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/assets/icons-bin/pointer.svg.vec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/lib/src/asset.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/lib/src/asset.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/lib/src/colors.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/lib/src/colors.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/lib/src/t_theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/lib/src/t_theme.dart" afterDir="false" />
+<<<<<<< HEAD
+=======
+>>>>>>> dev
+>>>>>>> fe39c9dc3925c868cf3ede97eb997ac6f5ceb2ef
+      <change beforePath="$PROJECT_DIR$/packages/veda_resources/lib/src/variables.dart" beforeDir="false" afterPath="$PROJECT_DIR$/packages/veda_resources/lib/src/variables.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2YZ2rgxIj7nIjDOlS3JPaAvlFJx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/pacecode/flutter_projects/mobile/packages/veda/assets/images/svg&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/veda/assets/images/svg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.Flutter Run -&gt; 'veda'" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31ba8d51-12ed-408c-b882-bed7182ce024" name="Changes" comment="" />
+      <created>1700539436625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700539436625</updated>
+    </task>
+    <servers />
+  </component>
+</project>

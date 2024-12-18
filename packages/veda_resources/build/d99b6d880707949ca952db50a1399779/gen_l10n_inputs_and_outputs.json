@@ -1,0 +1,13 @@
+{
+  "inputs": [
+    "c:\\Users\\user\\Desktop\\mobile\\packages\\veda_resources\\lib/l10n\\app_en.arb",
+    "c:\\Users\\user\\Desktop\\mobile\\packages\\veda_resources\\lib/l10n\\app_he.arb",
+    "c:\\Users\\user\\Desktop\\mobile\\packages\\veda_resources\\lib/l10n\\app_ne.arb"
+  ],
+  "outputs": [
+    "c:\\Users\\user\\Desktop\\mobile\\packages\\veda_resources\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart",
+    "c:\\Users\\user\\Desktop\\mobile\\packages\\veda_resources\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_he.dart",
+    "c:\\Users\\user\\Desktop\\mobile\\packages\\veda_resources\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_ne.dart",
+    "c:\\Users\\user\\Desktop\\mobile\\packages\\veda_resources\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart"
+  ]
+}

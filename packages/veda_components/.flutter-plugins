@@ -1,0 +1,19 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/firebase_auth-4.15.3/
+firebase_auth_web=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/firebase_auth_web-5.8.12/
+firebase_core=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/firebase_core-2.24.2/
+firebase_core_web=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/firebase_core_web-2.10.0/
+google_sign_in=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/google_sign_in-5.4.4/
+google_sign_in_android=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.20/
+google_sign_in_ios=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.7.1/
+google_sign_in_web=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/google_sign_in_web-0.10.2+1/
+path_provider=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/path_provider-2.1.1/
+path_provider_android=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/path_provider_android-2.2.1/
+path_provider_foundation=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/path_provider_foundation-2.3.1/
+path_provider_linux=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/path_provider_linux-2.2.1/
+path_provider_windows=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/path_provider_windows-2.2.1/
+permission_handler=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/permission_handler-11.1.0/
+permission_handler_android=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/permission_handler_android-12.0.1/
+permission_handler_apple=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/permission_handler_apple-9.2.0/
+permission_handler_html=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/permission_handler_html-0.1.0+2/
+permission_handler_windows=/Users/abisheksubedi/.pub-cache/hosted/pub.dev/permission_handler_windows-0.2.0/

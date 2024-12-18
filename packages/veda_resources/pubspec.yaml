@@ -1,0 +1,39 @@
+name: veda_resources
+description: description goes here
+publish_to: none
+version: 0.0.1
+
+environment:
+  sdk: ">=3.0.3 <4.0.0"
+  flutter: ">=3.10.4"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+  path: ^1.8.3
+  google_fonts: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  vector_graphics_compiler: ^1.1.7
+
+flutter:
+  fonts:
+    - family: rage
+      fonts:
+        - asset: fonts/rage.ttf
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/icons-bin/
+
+    - assets/images-bin/
+    - assets/header-bin/
+
+    - assets/footer-bin/
+    - assets/lookup-bin/

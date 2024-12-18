@@ -1,0 +1,94 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Pace Code veda",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "veda",
+
+      "cwd": "packages/veda",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "veda (profile mode)",
+      "cwd": "packages/veda",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "veda (release mode)",
+      "cwd": "packages/veda",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "veda_components",
+      "cwd": "packages/veda_components",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "veda_components (profile mode)",
+      "cwd": "packages/veda_components",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "veda_components (release mode)",
+      "cwd": "packages/veda_components",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "veda_core",
+      "cwd": "packages/veda_core",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "veda_core (profile mode)",
+      "cwd": "packages/veda_core",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "veda_core (release mode)",
+      "cwd": "packages/veda_core",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "veda_resources",
+      "cwd": "packages/veda_resources",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "veda_resources (profile mode)",
+      "cwd": "packages/veda_resources",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "veda_resources (release mode)",
+      "cwd": "packages/veda_resources",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}

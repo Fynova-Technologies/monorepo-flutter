@@ -1,0 +1,5 @@
+arb-dir: ../veda_resources/lib/l10n
+template-arb-file: app_en.arb
+output-localization-file: app_localizations.dart
+header: // Copyright (c) 2023. Avishek. All rights reserved.
+nullable-getter: false

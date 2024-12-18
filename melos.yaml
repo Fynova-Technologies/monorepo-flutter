@@ -1,0 +1,30 @@
+name: veda
+
+packages:
+  - packages/*
+
+scripts:
+  analyze:
+    exec: dart analyze .
+  loc:
+    exec: flutter gen-l10n --suppress-warnings
+    packageFilters:
+      fileExists: l10n.yaml
+
+  svg:
+    exec: dart run bin/svg.dart
+    packageFilters:
+      fileExists: bin/svg.dart
+
+  br:
+    exec: flutter pub run build_runner build --delete-conflicting-outputs
+    packageFilters:
+      ignore:
+        - veda_components
+        - veda_resources
+  release:
+    exec: flutter build apk --release
+    packageFilters:
+      ignore:
+        - veda_components
+        - veda_resources
